@@ -1,1 +1,1 @@
-# amazon-landingpage
+# amazon-landingBased on HTML
